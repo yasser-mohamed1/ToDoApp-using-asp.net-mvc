@@ -25,6 +25,11 @@ namespace ToDoApp.Controllers
             return View(await _context.ToDoItem.ToListAsync());
         }
 
+        public async Task<IActionResult> Index1()
+        {
+            return View(await _context.ToDoItem.ToListAsync());
+        }
+
         // GET: ToDoItems/Details/5
         public async Task<IActionResult> Details(int? id)
         {

@@ -256,3 +256,4 @@ C:\Users\Ssofian\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0\refint\ToDoApp.dl
 C:\Users\Ssofian\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.pdb
 C:\Users\Ssofian\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.genruntimeconfig.cache
 C:\Users\Ssofian\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0\ref\ToDoApp.dll
+C:\Users\Ssofian\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.sourcelink.json
